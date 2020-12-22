@@ -1,5 +1,4 @@
 server:
-  port: 7448
   servlet:
     context-path: /HIS
 spring:
